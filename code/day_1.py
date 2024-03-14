@@ -1,2 +1,4 @@
+from data.day_1_data import stuff
+
 def print_stuff():
-    print("hello from day_1.py")
+    print(stuff)
