@@ -1,9 +1,4 @@
-from code.day_1 import print_stuff
-from code.day_2 import print_stuff_2
-
-# main.py
+from code.number_crunching import sum_of_new_numbers
 
 if __name__ == "__main__":
-    print_stuff()
-    print_stuff_2()
-
+    print("Day 1 Answer:", sum_of_new_numbers)
